@@ -1,3 +1,6 @@
+THIS LAND IS MINE: VISUALISING LAND OWNERSHIP DATA OVER TIME
+============================================================
+
 One of the burning debates in South Africa is around land redistribution. It has  been said in recent months, notably by the Economic Freedom Fighters, that most of the country's land is in the hands of a white minority.
 
 But the land question is much broader than South Africa. Many a war have been waged the world over because of borders, or the natural resources within those borders.
